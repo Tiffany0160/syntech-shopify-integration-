@@ -1,5 +1,3 @@
-# syntech-shopify-integration-
-
 # Syntech → Shopify Integration
 
 This project automatically imports Syntech supplier products into Shopify.

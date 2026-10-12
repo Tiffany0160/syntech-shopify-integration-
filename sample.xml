@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<syntechstock>
+
+    <data>
+        <count>2</count>
+        <currency>ZAR</currency>
+    </data>
+
+    <stock>
+
+        <product>
+
+            <sku>TEST-SYNTECH-001</sku>
+
+            <name>Test Wireless Keyboard</name>
+
+            <price>500.00</price>
+
+            <rrp_incl>699.00</rrp_incl>
+
+            <recommended_margin>35.00</recommended_margin>
+
+            <promo_price/>
+
+            <promo_starts/>
+
+            <promo_ends/>
+
+            <cptstock>5</cptstock>
+
+            <jhbstock>12</jhbstock>
+
+            <dbnstock>3</dbnstock>
+
+            <nextshipmenteta/>
+
+            <url>
+                https://www.syntech.co.za/
+            </url>
+
+            <description>
+                <![CDATA[
+                Test wireless keyboard for the Syntech Shopify integration.
+                ]]>
+            </description>
+
+            <shortdesc>
+                <![CDATA[
+                Test wireless keyboard.
+                ]]>
+            </shortdesc>
+
+            <featured_image>
+                https://example.com/test-keyboard.jpg
+            </featured_image>
+
+            <additional_images>
+                https://example.com/test-keyboard-2.jpg|https://example.com/test-keyboard-3.jpg
+            </additional_images>
+
+            <categories>
+                Computer Peripherals, Keyboards
+            </categories>
+
+            <attributes>
+
+                <brand>
+                    <![CDATA[ Test Brand ]]>
+                </brand>
+
+                <colour>
+                    <![CDATA[ Black ]]>
+                </colour>
+
+                <warranty>
+                    <![CDATA[ 12 Months ]]>
+                </warranty>
+
+            </attributes>
+
+        </product>
+
+
+        <product>
+
+            <sku>TEST-SYNTECH-002</sku>
+
+            <name>Test Wireless Mouse</name>
+
+            <price>300.00</price>
+
+            <rrp_incl>449.00</rrp_incl>
+
+            <recommended_margin>33.18</recommended_margin>
+
+            <promo_price/>
+
+            <promo_starts/>
+
+            <promo_ends/>
+
+            <cptstock>2</cptstock>
+
+            <jhbstock>10</jhbstock>
+
+            <dbnstock>3</dbnstock>
+
+            <nextshipmenteta/>
+
+            <url>
+                https://www.syntech.co.za/
+            </url>
+
+            <description>
+                <![CDATA[
+                Test wireless mouse for the Syntech Shopify integration.
+                ]]>
+            </description>
+
+            <shortdesc>
+                <![CDATA[
+                Test wireless mouse.
+                ]]>
+            </shortdesc>
+
+            <featured_image>
+                https://example.com/test-mouse.jpg
+            </featured_image>
+
+            <additional_images>
+                https://example.com/test-mouse-2.jpg
+            </additional_images>
+
+            <categories>
+                Computer Peripherals, Mice
+            </categories>
+
+            <attributes>
+
+                <brand>
+                    <![CDATA[ Test Brand ]]>
+                </brand>
+
+                <colour>
+                    <![CDATA[ Black ]]>
+                </colour>
+
+                <warranty>
+                    <![CDATA[ 12 Months ]]>
+                </warranty>
+
+            </attributes>
+
+        </product>
+
+    </stock>
+
+</syntechstock>
